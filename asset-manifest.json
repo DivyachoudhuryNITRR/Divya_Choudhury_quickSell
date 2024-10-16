@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DivyachoudhuryNITRR/Divya_Choudhury_quickSell/static/css/main.20ff58c2.css",
+    "main.js": "/DivyachoudhuryNITRR/Divya_Choudhury_quickSell/static/js/main.20eb0911.js",
+    "index.html": "/DivyachoudhuryNITRR/Divya_Choudhury_quickSell/index.html",
+    "main.20ff58c2.css.map": "/DivyachoudhuryNITRR/Divya_Choudhury_quickSell/static/css/main.20ff58c2.css.map",
+    "main.20eb0911.js.map": "/DivyachoudhuryNITRR/Divya_Choudhury_quickSell/static/js/main.20eb0911.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ff58c2.css",
+    "static/js/main.20eb0911.js"
+  ]
+}
